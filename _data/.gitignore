@@ -1,0 +1,30 @@
+.DS_Store
+node_modules/
+/dist/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+node_cache/
+.history/
+.scannerwork/
+sonar-project.properties 
+
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+src/config/config.js
+
+
+
+# Elastic Beanstalk Files
+.elasticbeanstalk/*
+!.elasticbeanstalk/*.cfg.yml
+!.elasticbeanstalk/*.global.yml
+debug.log
+
+
